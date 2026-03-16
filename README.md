@@ -58,7 +58,7 @@ I am ready to join a team where I can contribute, continue learning, and grow as
 > 📂 Project Structure
 
 mern-ecommerce-website/
-├── backend/          # Express server, APIs, MongoDB
+├── backend/ # Express server, APIs, MongoDB
 ├── frontend/         # React application
 ├── README.md
 └── .gitignore
