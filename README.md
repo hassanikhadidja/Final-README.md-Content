@@ -56,6 +56,7 @@ I am ready to join a team where I can contribute, continue learning, and grow as
 - Styling: Tailwind CSS (or Material UI)
   
 > 📂 Project Structure
+
 mern-ecommerce-website/
 ├── backend/          # Express server, APIs, MongoDB
 ├── frontend/         # React application
