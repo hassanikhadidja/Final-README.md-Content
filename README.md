@@ -63,6 +63,7 @@ mern-ecommerce-website/
 ├── README.md
 └── .gitignore
 
+
 > How to Run (for instructors/reviewers)
 
 See detailed instructions in the respective `backend` and `frontend` folders.
